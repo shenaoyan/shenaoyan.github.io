@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Shenao Yan 闫申奥"
-excerpt: "Shenao Yan 闫申奥"
+title: "Shenao Yan"
+excerpt: "Shenao Yan"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,17 +11,17 @@ redirect_from:
 <!-- Hi! I am Shenao Yan (闫申奥 in Chinese). I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my Master Degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/) in 2022. -->
 Hi! I am Shenao Yan (闫申奥 in Chinese). I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my Master Degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/) in 2022.
 
-# <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
+<!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
 
 <h2 id='research-interests'>Research Interests</h2>
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, my research has centered on
+Currently, my research has centered on Trustworthy Machine Learning.
 
-* **AIGC**: text-to-image generation (T2I), customized & controllable generation
+<!-- * **AIGC**: text-to-image generation (T2I), customized & controllable generation
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
-* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
+* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning -->
 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
