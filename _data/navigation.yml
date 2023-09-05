@@ -12,8 +12,8 @@ main:
   - title: "Services"
     url: \#services
 
-  - title: "Projects"
-    url: /publications/
+  # - title: "Projects"
+  #   url: /publications/
 
   - title: "Misc"
     url: \#misc
