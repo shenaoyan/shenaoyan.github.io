@@ -104,9 +104,14 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='experience'>Experience</h2>
 
+<!--
 * Research Intern - **DAMO Academy, Alibaba Group**
   * Time: March 2022 - Present.
-  * Fundamental Visual Intelligence Team, supervised by Dr. Deli Zhao and Biao Gong.
+  * Fundamental Visual Intelligence Team, supervised by Dr. Deli Zhao and Biao Gong. -->
+
+* Software Engineer Intern (Machine Learning) - **Meta**
+  * Time: Jun. 2022 - Sep. 2022
+  * Instagram Fairness & Equity, supervised by Dr. Bowen Yu. -->
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 
