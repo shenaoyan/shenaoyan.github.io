@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siteng Huang"
+title                    : "Shenao Yan"
 title_separator          : "-"
-name                     : &name "Siteng Huang"
+name                     : &name "Shenao Yan"
 description              : &description "Ph.D. Student"
-url                      : https://kyonhuang.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kyonhuang.top # the base hostname & protocol for your site e.g. "https://shenaoyan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bighuang624/bighuang624.github.io"
+repository               : "shenaoyan/shenaoyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siteng Huang"
+  name             : "Shenao Yan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student @ Zhejiang University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
-  location         : "Hangzhou, China"
+  bio              : "Ph.D. Student @ University of Connecticut"
+  location         : "CT, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "siteng.huang@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=sC8KKnsAAAAJ&hl=en"
+  email            : "shenao.yan@uconn.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bighuang624"
+  github           : "shenaoyan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9735-1186"
+  orcid            : "https://orcid.org/0009-0004-5439-7485"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KyonHuang"
+  twitter          : # "KyonHuang"
   vine             :
   weibo            :
   xing             :
