@@ -129,7 +129,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * [ICCV 2023](https://iccv2023.thecvf.com/) -->
 
-### Conference and Journal Reviewer
+<!-- ### Conference and Journal Reviewer
 
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
@@ -139,11 +139,16 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Program Committee for Conferences and Workshops
 
-* Session Chair, The First Westlake Robot Learning Symposium
+* Session Chair, The First Westlake Robot Learning Symposium -->
+
+* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2023
+
+* Program Committee Member/Reviewer, Association for the Advancement of Artificial Intelligence (AAAI), 2024
+
 
 <h2 id='misc'>Misc</h2>
 
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/).
+I'm a fun of photography. Welcome to my [blog](https://shenaoyan.com/).
 
 <!-- <div align="middle">
   <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
