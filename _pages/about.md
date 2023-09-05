@@ -41,12 +41,21 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
+
+* GO Huskies!
+* [2023-08] I am invited as a Program Committee /Reviewer of AAAI 2024.
+* [2023-07] I am invited as a Ethics Reviewer of NeurIPS 2023.
+* [2022-07] Started as a software engineer intern at Meta, Instagram Fairness & Equity Group. 
+
+<!--
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked [26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20) of the CIKM conference according to the citations within five years, and 8th among papers published in the same year.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
 * **[July 4, 2022]** One paper got accepted for ECCV 2022.
 * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
-* **[March 4, 2021]** One paper got accepted for CVPR 2021.
+* **[March 4, 2021]** One paper got accepted for CVPR 2021. -->
+
+
 <!-- * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators! -->
 
 <!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
@@ -147,6 +156,8 @@ I am always looking for related colaboration. If you are interested to chat with
 <div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
 </div> -->
 
+
+
 <h2 id='services'>Services</h2>
 
 <!-- ### Journal Reviewer
@@ -168,6 +179,9 @@ I am always looking for related colaboration. If you are interested to chat with
 ### Program Committee for Conferences and Workshops
 
 * Session Chair, The First Westlake Robot Learning Symposium -->
+
+
+
 
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2023
 
