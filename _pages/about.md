@@ -42,10 +42,10 @@ I am always looking for related colaboration. If you are interested to chat with
 <h2 id='news'>News</h2>
 
 
-* GO Huskies!
-* [2023-08] I am invited as a Program Committee /Reviewer of AAAI 2024.
-* [2023-07] I am invited as a Ethics Reviewer of NeurIPS 2023.
-* [2022-07] Started as a software engineer intern at Meta, Instagram Fairness & Equity Group. 
+* **[2023-09]** GO Huskies!
+* **[2023-08]** I am invited as a Program Committee /Reviewer of AAAI 2024.
+* **[2023-07]** I am invited as a Ethics Reviewer of NeurIPS 2023.
+* **[2022-07]** Started as a software engineer intern at Meta, Instagram Fairness & Equity Group. 
 
 <!--
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked [26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20) of the CIKM conference according to the citations within five years, and 8th among papers published in the same year.
