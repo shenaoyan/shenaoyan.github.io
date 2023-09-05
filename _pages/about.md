@@ -23,7 +23,7 @@ Currently, my research has centered on Trustworthy Machine Learning.
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning -->
 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
+I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:shenao.yan@uconn.edu" target="_blank">email</a>.
 
 <!-- language-augmented vision -->
 
