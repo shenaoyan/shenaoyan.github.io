@@ -62,10 +62,10 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Peer-reviewed Conference
 
+<a href="https://dl.acm.org/doi/abs/10.1145/3368089.3409671" target="_blank"><img src="https://img.shields.io/badge/ESEC/FSE-2020-blue?style=flat-square"></a> <u>Shenao Yan</u>, Guanhong Tao, Xuwei Liu, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang &quot;**Correlations between deep neural network model coverage criteria and model quality**&quot;. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3409671)] [[github](https://github.com/RU-System-Software-and-Security/CovTesting)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:zYLM7Y9cAGgC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.3.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
+
+
 <a href="https://dl.acm.org/doi/abs/10.1145/3368089.3409671" target="_blank"><img src="https://img.shields.io/badge/ESEC/FSE-2020-blue?style=flat-square"></a> <u>Shenao Yan</u>, Guanhong Tao, Xuwei Liu, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang &quot;**Correlations between deep neural network model coverage criteria and model quality**&quot;. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3409671)] [[github](https://github.com/RU-System-Software-and-Security/CovTesting)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:zYLM7Y9cAGgC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.3.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social"></a>
-
-
-
 
 
 
