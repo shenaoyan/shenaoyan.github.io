@@ -134,7 +134,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * Software Engineer Intern (Machine Learning) - **Meta**
   * Time: Jun. 2022 - Sep. 2022
-  * Instagram Fairness & Equity, supervised by Dr. Bowen Yu. -->
+  * Instagram Fairness & Equity, supervised by Dr. Bowen Yu. 
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 
