@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Siteng Huang 黄思腾"
-excerpt: "Siteng Huang 黄思腾"
+title: "Shenao Yan 闫申奥"
+excerpt: "Shenao Yan 闫申奥"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019. -->
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+<!-- Hi! I am Shenao Yan (闫申奥 in Chinese). I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my Master Degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/) in 2022. -->
+Hi! I am Shenao Yan (闫申奥 in Chinese). I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my Master Degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/) in 2022.
 
-<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
+# <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
 
 <h2 id='research-interests'>Research Interests</h2>
 
