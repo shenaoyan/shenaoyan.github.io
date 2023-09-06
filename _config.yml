@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenao Yan 闫申奥"
+title                    : "Shenao Yan"
 title_separator          : "-"
 name                     : &name "Shenao Yan"
 description              : &description "Ph.D. Student"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shenao Yan"
+  name             : "Shenao Yan 闫申奥"
   avatar           : "profile.png"
   bio              : "Ph.D. Student @ University of Connecticut"
   location         : "Storrs, CT, USA"
