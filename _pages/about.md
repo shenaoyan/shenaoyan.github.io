@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Hi! I am Shenao Yan (闫申奥 in Chinese), a Ph.D. student of [University of Connecticut](https://uconn.edu/). I am fortunate to be advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my Master Degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/). -->
+<!-- Hi! I am Shenao Yan (闫申奥 in Chinese), a Ph.D. student of [University of Connecticut](https://uconn.edu/). I am fortunate to be advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my master's degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/). -->
 Hi! I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), advised by Prof. [Yuan Hong](https://yhongcs.github.io/). Prior to my Ph.D. career, I received my Master Degree from School of Computer Science, [Rutgers University](https://www.rutgers.edu/) in 2022.
 
 <!-- <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span> -->
