@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shenao Yan 闫申奥"
 excerpt: "Shenao Yan"
 author_profile: true
 redirect_from: 
