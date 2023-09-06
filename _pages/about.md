@@ -17,13 +17,13 @@ Hi! I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), adv
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, my research has centered on Trustworthy Machine Learning.
+Currently, my research centers on Trustworthy Machine Learning.
 
 <!-- * **AIGC**: text-to-image generation (T2I), customized & controllable generation
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning -->
 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:shenao.yan@uconn.edu" target="_blank">email</a>.
+I am always looking for related collaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:shenao.yan@uconn.edu" target="_blank">email</a>.
 
 <!-- language-augmented vision -->
 
@@ -43,7 +43,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 
 * **[2023-09]** GO Huskies!
-* **[2023-08]** I am invited as a Program Committee /Reviewer of AAAI 2024.
+* **[2023-08]** I am invited as a Program Committee/Reviewer of AAAI 2024.
 * **[2023-07]** I am invited as a Ethics Reviewer of NeurIPS 2023.
 * **[2022-07]** Started as a software engineer intern at Meta, Instagram Fairness & Equity Group. 
 
@@ -190,7 +190,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='misc'>Misc</h2>
 
-I'm a fun of photography. Welcome to my [blog](https://shenaoyan.com/).
+I'm a fan of photography. Welcome to my [blog](https://shenaoyan.com/).
 
 <!-- <div align="middle">
   <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
