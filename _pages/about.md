@@ -75,7 +75,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <!-- ### Peer-reviewed Conference -->
 
-<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/Usenix-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)] </a>
+<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/Usenix-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)]
 
 
 
