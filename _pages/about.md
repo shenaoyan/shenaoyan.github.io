@@ -17,7 +17,7 @@ Hi! I am a Ph.D. student of [University of Connecticut](https://uconn.edu/), adv
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, my research centers on Trustworthy Machine Learning.
+Currently, my research centers on Trustworthy Machine Learning, especially safe and responsible LLM.
 
 <!-- * **AIGC**: text-to-image generation (T2I), customized & controllable generation
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
@@ -41,10 +41,14 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <h2 id='news'>News</h2>
 
-
+* **[2024-06]** One paper got accepted to USENIX Security '24.
+* **[2024-05]** I'm awarded the Synchrony Fellowship for Fall 2024.
+* **[2024-05]** I'm awarded the 2024 Predoctoral Reward.
+* **[2024-05]** Passed the Ph.D. Qualifying Exam.
+* **[2024-04]** Invited as a Program Committee/Reviewer of CCS 2024 Artifact Evaluation.
 * **[2023-09]** GO Huskies!
-* **[2023-08]** I am invited as a Program Committee/Reviewer of AAAI 2024.
-* **[2023-07]** I am invited as a Ethics Reviewer of NeurIPS 2023.
+* **[2023-08]** Invited as a Program Committee/Reviewer of AAAI 2024.
+* **[2023-07]** Invited as a Ethics Reviewer of NeurIPS 2023.
 * **[2022-07]** Started as a software engineer intern at Meta, Instagram Fairness & Equity Group. 
 
 <!--
@@ -71,10 +75,14 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <!-- ### Peer-reviewed Conference -->
 
+<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/Usenix-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)] </a>
+
+
+
 <a href="https://dl.acm.org/doi/abs/10.1145/3368089.3409671" target="_blank"><img src="https://img.shields.io/badge/ESEC/FSE-2020-blue?style=flat-square"></a> <u>Shenao Yan</u>, Guanhong Tao, Xuwei Liu, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang &quot;**Correlations between deep neural network model coverage criteria and model quality**&quot;. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3409671)] [[github](https://github.com/RU-System-Software-and-Security/CovTesting)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:zYLM7Y9cAGgC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.0.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
 
 
-<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ding" target="_blank"><img src="https://img.shields.io/badge/Usenix-2021-blue?style=flat-square"></a> Hailun Ding, <u>Shenao Yan</u>, Juan Zhai, Shiqing Ma &quot;**ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning**&quot;. In *30th USENIX Security Symposium (USENIX Security 21)*. [[Paper](https://www.usenix.org/system/files/sec21-ding.pdf)] [[github](https://github.com/RU-System-Software-and-Security/ELISE-2021)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.2.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
+<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ding" target="_blank"><img src="https://img.shields.io/badge/Usenix-2021-blue?style=flat-square"></a> Hailun Ding, <u>Shenao Yan</u>, Juan Zhai, Shiqing Ma &quot;**ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning**&quot;. In *30th USENIX Security Symposium (USENIX Security '21)*. [[Paper](https://www.usenix.org/system/files/sec21-ding.pdf)] [[github](https://github.com/RU-System-Software-and-Security/ELISE-2021)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.2.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
 
 
 
@@ -186,6 +194,8 @@ I am always looking for related collaboration. If you are interested to chat wit
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2023
 
 * Program Committee Member/Reviewer, Association for the Advancement of Artificial Intelligence (AAAI), 2024
+
+* Artifact Evaluation Committee Member/Reviewer, The 31th ACM Conference on Computer and Communications Security (CCS 2024)
 
 
 <h2 id='misc'>Misc</h2>
