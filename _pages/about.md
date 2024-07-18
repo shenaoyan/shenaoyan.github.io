@@ -41,17 +41,19 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <h2 id='news'>News</h2>
 
-* **[2024-06]** One paper got accepted to USENIX Security '24.
+* **[2024-07]** I received the **USENIX Security '24 Student Grant**. Thanks for the generous support!
+* **[2024-06]** One paper got accepted to **USENIX Security '24**.
 * **[2024-05]** I'm awarded the Synchrony Fellowship for Fall 2024.
 * **[2024-05]** I'm awarded the 2024 Predoctoral Reward.
-* **[2024-05]** Passed the Ph.D. Qualifying Exam.
-* **[2024-04]** Invited as a Program Committee/Reviewer of CCS 2024 Artifact Evaluation.
+* **[2024-05]** I passed the Ph.D. Qualifying Exam.
+* **[2024-04]** I'm invited as a Program Committee/Reviewer of CCS 2024 Artifact Evaluation.
 * **[2023-09]** GO Huskies!
-* **[2023-08]** Invited as a Program Committee/Reviewer of AAAI 2024.
-* **[2023-07]** Invited as a Ethics Reviewer of NeurIPS 2023.
-* **[2022-07]** Started as a software engineer intern at Meta, Instagram Fairness & Equity Group. 
+* **[2023-08]** I'm invited as a Program Committee/Reviewer of AAAI 2024.
+* **[2023-07]** I'm invited as a Ethics Reviewer of NeurIPS 2023.
+* **[2022-07]** I started as a software engineer intern at **Meta**, Instagram Fairness & Equity Group. 
 
 <!--
+
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked [26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20) of the CIKM conference according to the citations within five years, and 8th among papers published in the same year.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
@@ -75,14 +77,11 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <!-- ### Peer-reviewed Conference -->
 
-<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/Usenix-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)]
-
-
+<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/USENIX-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:roLk4NBRz8UC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.5.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3368089.3409671" target="_blank"><img src="https://img.shields.io/badge/ESEC/FSE-2020-blue?style=flat-square"></a> <u>Shenao Yan</u>, Guanhong Tao, Xuwei Liu, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang &quot;**Correlations between deep neural network model coverage criteria and model quality**&quot;. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3409671)] [[github](https://github.com/RU-System-Software-and-Security/CovTesting)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:zYLM7Y9cAGgC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.0.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
 
-
-<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ding" target="_blank"><img src="https://img.shields.io/badge/Usenix-2021-blue?style=flat-square"></a> Hailun Ding, <u>Shenao Yan</u>, Juan Zhai, Shiqing Ma &quot;**ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning**&quot;. In *30th USENIX Security Symposium (USENIX Security '21)*. [[Paper](https://www.usenix.org/system/files/sec21-ding.pdf)] [[github](https://github.com/RU-System-Software-and-Security/ELISE-2021)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.2.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
+<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ding" target="_blank"><img src="https://img.shields.io/badge/USENIX-2021-blue?style=flat-square"></a> Hailun Ding, <u>Shenao Yan</u>, Juan Zhai, Shiqing Ma &quot;**ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning**&quot;. In *30th USENIX Security Symposium (USENIX Security '21)*. [[Paper](https://www.usenix.org/system/files/sec21-ding.pdf)] [[github](https://github.com/RU-System-Software-and-Security/ELISE-2021)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.1.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
 
 
 
