@@ -41,6 +41,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <h2 id='news'>News</h2>
 
+* **[2024-09]** I'm invited as a Reviewer of ICLR 2025.
 * **[2024-07]** I received the **USENIX Security '24 Student Grant**. Thanks for the generous support!
 * **[2024-06]** One paper got accepted to **USENIX Security '24**.
 * **[2024-05]** I'm awarded the Synchrony Fellowship for Fall 2024.
@@ -187,7 +188,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 * Session Chair, The First Westlake Robot Learning Symposium -->
 
-
+- Reviewer, International Conference on Learning Representations (ICLR), 2025
 
 
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024
@@ -196,7 +197,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 * Artifact Evaluation Committee Member/Reviewer, The 31th ACM Conference on Computer and Communications Security (CCS 2024)
 
-* Sub-reviewer for WWW 2024, CCS 2024, RAID 2024, NDSS 2025
+* Sub-reviewer for WWW 2024, CCS 2024, RAID 2024, NDSS 2025, USENIX 2025
 
 
 <h2 id='misc'>Misc</h2>
