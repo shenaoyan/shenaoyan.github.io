@@ -182,7 +182,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/)
 * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
-* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+* European Conference on Computer Vision [(ECCV) ](https://www.ecva.net/index.php#conferences) -->
 
 ### Program Committee for Conferences and Workshops
 
