@@ -78,7 +78,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <!-- ### Peer-reviewed Conference -->
 
-<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/USENIX-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)] [[media](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:roLk4NBRz8UC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.3.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a> 
+<a href="https://arxiv.org/abs/2406.06822" target="_blank"><img src="https://img.shields.io/badge/USENIX-2024-blue?style=flat-square"></a> <u>Shenao Yan</u>, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong &quot;**An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection**&quot;. In *33rd USENIX Security Symposium (USENIX Security '24)*. [[Paper](https://arxiv.org/pdf/2406.06822)] [[github](https://github.com/datasec-lab/codebreaker)] [[media](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:roLk4NBRz8UC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.2.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a> 
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3368089.3409671" target="_blank"><img src="https://img.shields.io/badge/ESEC/FSE-2020-blue?style=flat-square"></a> <u>Shenao Yan</u>, Guanhong Tao, Xuwei Liu, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang &quot;**Correlations between deep neural network model coverage criteria and model quality**&quot;. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3409671)] [[github](https://github.com/RU-System-Software-and-Security/CovTesting)] <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sC8KKnsAAAAJ&citation_for_view=sC8KKnsAAAAJ:zYLM7Y9cAGgC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.0.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DsC8KKnsAAAAJ&logo=googlescholar&style=social"></a>
 
@@ -186,18 +186,27 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 ### Program Committee for Conferences and Workshops
 
-* Session Chair, The First Westlake Robot Learning Symposium -->
-
-- Reviewer, International Conference on Learning Representations (ICLR), 2025
-
-
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024
-
+* Reviewer, The International Conference on Learning Representations (ICLR), 2025
+* Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 * Program Committee Member/Reviewer, Association for the Advancement of Artificial Intelligence (AAAI), 2024
-
 * Artifact Evaluation Committee Member/Reviewer, The 31th ACM Conference on Computer and Communications Security (CCS 2024)
+* Artifact Evaluation Committee Member/Reviewer, The 34th *USENIX Security* Symposium (USENIX Security '25)
+* Sub-reviewer for ICLR 2024; WWW 2024, 2025; CCS 2024, 2025; NDSS 2025; USENIX 2025; RAID 2024; CVPR 2025
 
-* Sub-reviewer for WWW 2024, CCS 2024, RAID 2024, NDSS 2025, USENIX 2025
+### Journal Reviewer
+
+* [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+
+* [Transactions on Intelligent Transportation Systems (T-ITS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+
+* [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+
+* [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
+
+* [Applied Intelligence (APIN)](https://link.springer.com/journal/10489)
+
+* [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/journal/tops)
 
 
 <h2 id='misc'>Misc</h2>
