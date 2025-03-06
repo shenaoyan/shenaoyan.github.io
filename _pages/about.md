@@ -196,17 +196,19 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 ### Journal Reviewer
 
-* [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-* [Transactions on Intelligent Transportation Systems (T-ITS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+* ACM Transactions on Software Engineering and Methodology (TOSEM)
 
-* [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+* Transactions on Intelligent Transportation Systems (T-ITS)
 
-* [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
+* Engineering Applications of Artificial Intelligence (EAAI)
 
-* [Applied Intelligence (APIN)](https://link.springer.com/journal/10489)
+* Neural Networks
 
-* [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/journal/tops)
+* Applied Intelligence (APIN)
+
+* ACM Transactions on Privacy and Security (TOPS)
 
 
 <h2 id='misc'>Misc</h2>
