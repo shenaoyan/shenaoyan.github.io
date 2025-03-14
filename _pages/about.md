@@ -42,17 +42,12 @@ I am always looking for related collaboration. If you are interested to chat wit
 <h2 id='news'>News</h2>
 
 * **[2025-02]** One paper got accepted to **CODASPY '25**.
-* **[2025-01]** I'm invited as a Reviewer of KDD 2025.
-* **[2024-09]** I'm invited as a Reviewer of ICLR 2025.
 * **[2024-07]** I received the **USENIX Security '24 Student Grant**. Thanks for the generous support!
 * **[2024-06]** One paper got accepted to **USENIX Security '24**.
 * **[2024-05]** I'm awarded the Synchrony Fellowship for Fall 2024.
 * **[2024-05]** I'm awarded the 2024 Predoctoral Reward.
 * **[2024-05]** I passed the Ph.D. Qualifying Exam.
-* **[2024-04]** I'm invited as a Program Committee/Reviewer of CCS 2024 Artifact Evaluation.
 * **[2023-09]** GO Huskies!
-* **[2023-08]** I'm invited as a Program Committee/Reviewer of AAAI 2024.
-* **[2023-07]** I'm invited as a Ethics Reviewer of NeurIPS 2023.
 * **[2022-07]** I started as a software engineer intern at **Meta**, Instagram Fairness & Equity Group. 
 
 <!--
