@@ -32,6 +32,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 * giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. -->
 
 <!-- 
+
 1. 快速迁移，尤其是大模型
 2. 机器人的主动学习，感知智能与行为智能 embodied
 3. 开放世界
@@ -41,7 +42,8 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <h2 id='news'>News</h2>
 
-* **[2025-03]** I will join **Visa Research** as a Staff Research Scientist Intern in Security.
+<!-- **[2025-03]** I will join **Visa Research** as a Staff Research Scientist Intern in Security.-->
+
 * **[2025-02]** One paper got accepted to **CODASPY '25**.
 * **[2024-07]** I received the **USENIX Security '24 Student Grant**. Thanks for the generous support!
 * **[2024-06]** One paper got accepted to **USENIX Security '24**.
