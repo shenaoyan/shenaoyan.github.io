@@ -41,6 +41,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 <h2 id='news'>News</h2>
 
+* **[2025-03]** I will join **Visa Research** as a Staff Research Scientist Intern in Security.
 * **[2025-02]** One paper got accepted to **CODASPY '25**.
 * **[2024-07]** I received the **USENIX Security '24 Student Grant**. Thanks for the generous support!
 * **[2024-06]** One paper got accepted to **USENIX Security '24**.
