@@ -193,7 +193,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 * Reviewer, The International Conference on Learning Representations (ICLR), 2025
 * Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 * Program Committee Member/Reviewer, Association for the Advancement of Artificial Intelligence (AAAI), 2024
-* Artifact Evaluation Committee Member/Reviewer, The 31th ACM Conference on Computer and Communications Security (CCS 2024)
+* Artifact Evaluation Committee Member/Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024, 2025)
 * Artifact Evaluation Committee Member/Reviewer, The 34th *USENIX Security* Symposium (USENIX Security '25)
 * Sub-reviewer for ICLR 2024; WWW 2024, 2025; CCS 2024, 2025; NDSS 2025; USENIX 2025; RAID 2024; CVPR 2025
 
